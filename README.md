@@ -11,7 +11,7 @@ nada esses esforços. Eu amo codar, espero ir sempre me aprimorando.
 
 Cursei mais de 20 cursos de programação, aprendi sobre Python( Matplot e Pandas), 
 além do framework Django. Adoro Python, mas por conta das exigências do mercado de 
-trabalho estou estudadando JS e PHP, que são tecnologias mais utilizadas para 
+trabalho estou estudando JS e PHP, que são tecnologias mais utilizadas para 
 o desenvolvimento de aplicações web atualmente.
 
 
