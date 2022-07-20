@@ -9,12 +9,3 @@ me dedicando à área. Os desafios são grandes, mas com paciência
 e muita vontade de aprender estarei sempre crescendo. Não me custa
 nada esses esforços. Eu amo codar, espero ir sempre me aprimorando. 
 
-Cursei mais de 20 cursos de programação, aprendi sobre Python( Matplot e Pandas), 
-além do framework Django. Adoro Python, mas por conta das exigências do mercado de 
-trabalho estou estudando JS e PHP, que são tecnologias mais utilizadas para 
-o desenvolvimento de aplicações web atualmente.
-
-
-Estou sempre à disposição. 
-vocês podem me contactar através do WhatsApp (71) 999383535. 
-
